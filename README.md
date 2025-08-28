@@ -10,7 +10,6 @@
 
 ## <picture><img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 - 🎓 Estudiante de **Ingeniería Civil Informática** en la **Universidad Católica del Maule**  
 - 💻 Me gusta programar y aprender nuevas tecnologías  
