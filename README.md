@@ -13,9 +13,6 @@
 
 - 🎓 Estudiante de **Ingeniería Civil Informática** en la **Universidad Católica del Maule**  
 - 💻 Me gusta programar y aprender nuevas tecnologías  
-- 🧩 Disfruto los desafíos difíciles y la resolución de problemas  
-- 🤖 Tengo interés en **Inteligencia Artificial** y su aplicación práctica  
-- 🌍 Me motiva crecer profesionalmente y aportar con soluciones tecnológicas  
 
 <br><br>
 
