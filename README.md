@@ -6,15 +6,6 @@
   </a>
 </p>
 
-<br>
-
-## <picture><img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width = 50px></picture> **About me**
-
-
-- 🎓 Estudiante de **Ingeniería Civil Informática** en la **Universidad Católica del Maule**  
-
-<br><br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"><b> Skills</b>
