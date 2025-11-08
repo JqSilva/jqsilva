@@ -12,7 +12,6 @@
 
 
 - 🎓 Estudiante de **Ingeniería Civil Informática** en la **Universidad Católica del Maule**  
-- 💻 Me gusta programar y aprender nuevas tecnologías  
 
 <br><br>
 
